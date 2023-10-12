@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PLANTAO_UC_COD_BACK/1.0.0": {
+        "runtime": {
+          "PLANTAO_UC_COD_BACK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PLANTAO_UC_COD_BACK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
