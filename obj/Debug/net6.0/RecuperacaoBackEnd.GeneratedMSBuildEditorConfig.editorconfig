@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = PLANTAO_UC_COD_BACK
-build_property.ProjectDir = d:\CURSO SENAI DEV FULLSTACK\PLANTAO_UC_COD_BACK\
+build_property.RootNamespace = RecuperacaoBackEnd
+build_property.ProjectDir = D:\CURSO SENAI DEV FULLSTACK\RecuperacaoBackEnd\

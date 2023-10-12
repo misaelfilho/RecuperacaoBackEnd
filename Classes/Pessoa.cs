@@ -1,4 +1,4 @@
-namespace PLANTAO_UC_COD_BACK.Classes
+namespace RecuperacaoBackEnd.Classes
 {
     public abstract class Pessoa
     {

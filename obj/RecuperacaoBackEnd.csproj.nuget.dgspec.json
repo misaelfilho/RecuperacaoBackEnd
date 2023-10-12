@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSO SENAI DEV FULLSTACK\\PLANTAO_UC_COD_BACK\\PLANTAO_UC_COD_BACK.csproj": {}
+    "D:\\CURSO SENAI DEV FULLSTACK\\RecuperacaoBackEnd\\RecuperacaoBackEnd.csproj": {}
   },
   "projects": {
-    "D:\\CURSO SENAI DEV FULLSTACK\\PLANTAO_UC_COD_BACK\\PLANTAO_UC_COD_BACK.csproj": {
+    "D:\\CURSO SENAI DEV FULLSTACK\\RecuperacaoBackEnd\\RecuperacaoBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSO SENAI DEV FULLSTACK\\PLANTAO_UC_COD_BACK\\PLANTAO_UC_COD_BACK.csproj",
-        "projectName": "PLANTAO_UC_COD_BACK",
-        "projectPath": "D:\\CURSO SENAI DEV FULLSTACK\\PLANTAO_UC_COD_BACK\\PLANTAO_UC_COD_BACK.csproj",
+        "projectUniqueName": "D:\\CURSO SENAI DEV FULLSTACK\\RecuperacaoBackEnd\\RecuperacaoBackEnd.csproj",
+        "projectName": "RecuperacaoBackEnd",
+        "projectPath": "D:\\CURSO SENAI DEV FULLSTACK\\RecuperacaoBackEnd\\RecuperacaoBackEnd.csproj",
         "packagesPath": "C:\\Users\\misae\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSO SENAI DEV FULLSTACK\\PLANTAO_UC_COD_BACK\\obj\\",
+        "outputPath": "D:\\CURSO SENAI DEV FULLSTACK\\RecuperacaoBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\misae\\AppData\\Roaming\\NuGet\\NuGet.Config"

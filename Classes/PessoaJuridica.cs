@@ -1,4 +1,4 @@
-namespace PLANTAO_UC_COD_BACK.Classes
+namespace RecuperacaoBackEnd.Classes
 {
     public class PessoaJuridica : Pessoa
 {
@@ -28,23 +28,3 @@ namespace PLANTAO_UC_COD_BACK.Classes
     }
 }
 }
-
-
-
-// public string? Nome { get; set; }
-
-// public float Rendimento { get; set; }
-
-
-// public class PessoaJuridica : Pessoa
-// {
-//     public string? CNPJ { get; set; }
-
-//     public void Inserir(PessoaJuridica pj)
-//     {
-//         using (StreamWriter escritor = new StreamWriter(pj.Nome + ".txt"))
-//         {
-//             escritor.WriteLine($"{pj.Nome},{pj.Rendimento},{pj.Cnpj}");
-//         }
-//     }
-// }

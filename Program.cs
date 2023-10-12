@@ -1,4 +1,4 @@
-﻿using PLANTAO_UC_COD_BACK.Classes;
+﻿using RecuperacaoBackEnd.Classes;
 internal class Program
 {
     private static void Main(string[] args)

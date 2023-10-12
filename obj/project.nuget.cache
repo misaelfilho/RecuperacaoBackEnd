@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yuKlGmewFBV+dxJC/aXvT4QR6mIQCv+MElsMIbCBZ+/OxTW56NKxdkU7wlCvf4IB69WELEGwdIfcTrPuAKWH5Q==",
+  "dgSpecHash": "NptzjCkdlFn2IJRrS+PE8EDXmIdVh+Vrkwj0ONFkd96Nk9oVGz2SVAi3K+o0/iEi01YCGg/01engll0Aq27u4g==",
   "success": true,
-  "projectFilePath": "D:\\CURSO SENAI DEV FULLSTACK\\PLANTAO_UC_COD_BACK\\PLANTAO_UC_COD_BACK.csproj",
+  "projectFilePath": "D:\\CURSO SENAI DEV FULLSTACK\\RecuperacaoBackEnd\\RecuperacaoBackEnd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
